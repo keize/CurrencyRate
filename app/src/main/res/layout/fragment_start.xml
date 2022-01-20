@@ -13,7 +13,6 @@
 
 
     <androidx.recyclerview.widget.RecyclerView
-
         android:id="@+id/startFragmetnRecyclerView"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
         android:layout_width="match_parent"
